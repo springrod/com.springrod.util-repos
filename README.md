@@ -1,2 +1,2 @@
-# com.springrod.util_maven
+# com.springrod.util Maven仓库
 maven
